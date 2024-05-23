@@ -1,7 +1,14 @@
+h1,
+img,
 h1 {
   position: absolute;
   text-align: center;
   top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
+}
+
+img {
+  position: flex;
+  opacity: 70%;
 }
